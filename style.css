@@ -1,0 +1,19 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+.bright-part {
+  background-color: aliceblue;
+  height: 90vh;
+}
+
+.gradient-part {
+  background-image: linear-gradient(to right, white, black);
+  height: 10vh;
+}
+
+.dark-part {
+  background-color: darkblue;
+  height: 90vh;
+}
